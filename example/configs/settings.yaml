@@ -6,6 +6,7 @@ cbd_threshold: 2
 rural_threshold: 6
 
 households_sample_size: 10000
+cdap_batch_size: 500
 grade_school_max_age: 14
 
 county_map:
@@ -60,4 +61,3 @@ time_periods:
         - AM
         - MD
         - PM
-
