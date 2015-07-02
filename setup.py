@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='activitysim',
-    version='0.1dev',
+    version='0.1.0',
     description='Travel modeling',
     author='Synthicity',
     author_email='pwaddell@synthicity.com',
